@@ -4,7 +4,7 @@ Project (Text to Speech in Python) Prerequisites To complete this project, we wi
 2. gTTS (Google Text-to-Speech) is a Python module for converting text to audio.
 3. The playsound module is used for playing audio files. This module allows us to play sounds.
 Commands to install the pakages:
-1.pip install tkinter
-2.pip install gtts
-3. pip install playsound==1.2.2
+pip install tkinter
+pip install gtts
+pip install playsound==1.2.2
 
