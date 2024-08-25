@@ -10,3 +10,5 @@ Commands to install the pakages:
 2. pip install gtts
 3. pip install playsound==1.2.2
 
+IDE: Pycharm
+
